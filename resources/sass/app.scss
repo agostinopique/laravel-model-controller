@@ -1,9 +1,18 @@
 header{
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
     height: 100px;
     ul{
+        width: 100%;
+        list-style: none;
         display: flex;
+        justify-content: space-evenly;
+        li a{
+            padding: 10px 25px;
+            text-decoration: none;
+            background-color: lightblue;
+            border-radius: 5px;
+        }
     }
 }
+

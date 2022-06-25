@@ -1,8 +1,8 @@
 <header>
     <ul>
-        <li>Home</li>
-        <li>Movies</li>
-        <li>About</li>
-        <li>Contacts</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Movies</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contacts</a></li>
     </ul>
 </header>
